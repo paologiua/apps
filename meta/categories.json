@@ -1,63 +1,68 @@
 [
   {
     "name": "Productivity",
-    "count": 233,
+    "count": 214,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 184,
+    "count": 171,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 111,
+    "count": 110,
     "slug": "utilities"
   },
   {
     "name": "Social Networking",
-    "count": 45,
+    "count": 42,
     "slug": "social-networking"
   },
   {
     "name": "Music",
-    "count": 44,
+    "count": 41,
     "slug": "music"
   },
   {
     "name": "Photo & Video",
-    "count": 43,
+    "count": 41,
     "slug": "photo-video"
   },
   {
     "name": "Games",
-    "count": 33,
+    "count": 32,
     "slug": "games"
   },
   {
     "name": "Business",
-    "count": 27,
+    "count": 25,
     "slug": "business"
   },
   {
     "name": "Education",
-    "count": 24,
+    "count": 21,
     "slug": "education"
   },
   {
     "name": "Graphics & Design",
-    "count": 20,
+    "count": 19,
     "slug": "graphics-design"
   },
   {
     "name": "Finance",
-    "count": 19,
+    "count": 17,
     "slug": "finance"
   },
   {
     "name": "Entertainment",
-    "count": 14,
+    "count": 13,
     "slug": "entertainment"
+  },
+  {
+    "name": "Books",
+    "count": 8,
+    "slug": "books"
   },
   {
     "name": "News",
@@ -65,38 +70,28 @@
     "slug": "news"
   },
   {
-    "name": "Books",
-    "count": 6,
-    "slug": "books"
-  },
-  {
-    "name": "Lifestyle",
-    "count": 2,
-    "slug": "lifestyle"
-  },
-  {
     "name": "Food & Drink",
     "count": 2,
     "slug": "food-drink"
   },
   {
-    "name": "Health & Fitness",
-    "count": 2,
-    "slug": "health-fitness"
+    "name": "Navigation",
+    "count": 1,
+    "slug": "navigation"
   },
   {
-    "name": "Travel",
+    "name": "Lifestyle",
     "count": 1,
-    "slug": "travel"
-  },
-  {
-    "name": "Sports",
-    "count": 1,
-    "slug": "sports"
+    "slug": "lifestyle"
   },
   {
     "name": "Medical",
     "count": 1,
     "slug": "medical"
+  },
+  {
+    "name": "Health & Fitness",
+    "count": 1,
+    "slug": "health-fitness"
   }
 ]
